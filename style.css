@@ -21,13 +21,14 @@
   color: rgb(230, 37, 101);
 }
 .banner-section {
-  display: flex;
-  justify-content: left;
+  margin: 0;
+  /* display: flex;
+  justify-content: left; */
   background-image: url(https://preview.colorlib.com/theme/sel/img/banner/home-banner.jpg);
   height: 700px;
 }
 .newhome {
-  margin: 400px 215px;
+  padding: 400px 215px;
 }
 .home1 {
   font-family: roboto;
