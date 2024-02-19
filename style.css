@@ -50,3 +50,6 @@
   text-align:center;
   color: white;
 }
+.learn-btn:hover{
+  background-color: rgb(79, 79, 231);
+}
