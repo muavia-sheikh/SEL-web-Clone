@@ -42,3 +42,11 @@
   margin: 0;
   font-family: roboto;
 }
+.learn-btn{
+  width: 100px;
+  height: 25px;
+  padding: 15px 15px;
+  background-color: rgb(199, 45, 71);
+  text-align:center;
+  color: white;
+}
